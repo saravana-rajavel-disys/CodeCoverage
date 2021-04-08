@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CodeCoverage
+﻿namespace CodeCoverage
 {
     class Program
     {
